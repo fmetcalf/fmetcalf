@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Frank!
 
-🎓 I'm a **Senior at the University of Iowa** majoring in **Finance and Business Analytics**.  
+🎓 I'm a **Senior at the University of Iowa** majoring in **Finance and Business Analytics**. I am graduating in May 2025 and will be moving back to Chicago to being at the Bank of Montreal as a Credit Analyst in the Commercial Bank. 
 📊 I’m passionate about using data to solve real-world business problems and uncover meaningful insights.
 
 ---
