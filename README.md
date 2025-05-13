@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Frank!
 
 🎓 I'm a **Senior at the University of Iowa** majoring in **Finance and Business Analytics**.  
 📊 I’m passionate about using data to solve real-world business problems and uncover meaningful insights.
@@ -26,7 +26,6 @@
 
 ## 🌐 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/) (Add your actual link!)
-- 📬 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/frank-metcalf/)
 
 Thanks for stopping by! 🚀  
