@@ -1,3 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-I am a fourth year student at the University of Iowa double majoring in Finance & Business Analytics and Information Systems. I am originally from the Chicagoland area and am looking for a job that allows me to mix my finance and analytic skills. For further contact please reach out to me on LinkedIn. My profile is linked on my GitHub homepage.
+🎓 I'm a **Senior at the University of Iowa** majoring in **Finance and Business Analytics**.  
+📊 I’m passionate about using data to solve real-world business problems and uncover meaningful insights.
+
+---
+
+## 💼 About Me
+
+- 🏫 **Education**: BBA in Finance & Business Analytics  
+- 📍 Based in Iowa City, IA  
+- 💡 Driven by curiosity, collaboration, and continuous learning  
+- 📈 Focused on using data and finance to make better business decisions
+
+---
+
+## 🎯 Interests
+
+- 📊 Data Analysis & Visualization  
+- 🧮 Financial Modeling & Forecasting  
+- 📉 Portfolio Optimization & Investment Strategy  
+- 📚 Machine Learning for Business Applications  
+- 📋 Python, SQL, Excel, and Tableau Projects  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/) (Add your actual link!)
+- 📬 Email: your.email@example.com
+
+Thanks for stopping by! 🚀  
